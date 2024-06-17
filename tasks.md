@@ -2,7 +2,7 @@
 
 1. Change humidity NA values with formula provided in rmd file 
 2. remove functioning day  in data preprocessing
-3. as conclusion write all the limitations + possible new implementations (timeseries (use data ), offset use, ...)
+3. (DONE) as conclusion write all the limitations + possible new implementations (timeseries (use data ), offset use, ...) (DONE)
 4. remove date in modelling + explanation (make the deletion work in data preprocessing)
 5. move r chunk where we change humidity to data preprocessing
 6. maybe check scatter plot descriptions again
